@@ -1,0 +1,10 @@
+{
+  "name": "wslib",
+  "version": "0.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "node": "^18.9.0",
+    "node-fetch": "^3.2.10"
+  }
+}
