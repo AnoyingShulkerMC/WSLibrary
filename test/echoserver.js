@@ -5,5 +5,6 @@ server.on("connection", (con) => {
   con.on("message", (m) => {
     con.send(m)
   })
+  con.on("close", console.log)
 })
 server.server.listen(port, () => console.log("listening on " + port))
