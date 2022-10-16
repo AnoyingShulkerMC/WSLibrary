@@ -1,6 +1,6 @@
 {
   "name": "wslib",
-  "author": "AnoyingShulker"
+  "author": "AnoyingShulker",
   "version": "0.0.0",
   "main": "index.js",
   "type": "module",
